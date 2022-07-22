@@ -1,0 +1,6 @@
+userids = {
+[826506326] = true, 
+[USERID HERE] = true,
+[USERIDHERE] = true
+}
+return userids
